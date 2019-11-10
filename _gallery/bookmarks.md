@@ -13,5 +13,5 @@ license_text: Pixabay license
 categories:
   - technology
 tags:
-  - Google
+  - 
 ---
