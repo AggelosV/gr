@@ -8,8 +8,8 @@ caption:'Στο διαδίκτυο, ο σελιδοδείκτης είναι έ�
 Ο χρήστης κανονικά αποκτά πρόσβαση στους σελιδοδείκτες μέσω του μενού που παρέχει
 ο αντίστοιχος φυλλομετρητής όπου χρησιμοποιούνται συχνά φακέλοι για την
 οργάνωση τους.'
-license_url: 'https://pixabay.com/el/service/license/'
-license_text: Pixabay license
+license_url: self-taken
+license_text: self-taken
 categories:
   - technology
 tags:
